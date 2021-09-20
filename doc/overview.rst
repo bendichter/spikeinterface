@@ -29,8 +29,8 @@ SpikeInterface consists of 5 main sub-packages which encapsulate all steps in a 
 - spikeinterface.widgets
 
 
-Contrary to the previous version (<0.90.0), :code:`spikeinterface` is now one unique package.
-Before that, :code:`spikeinterface` was a metapacage that depended on 5 independent package.
+Contrary to the previous version (<0.90.0), :code:`spikeinterface` is now one package.
+Before that, :code:`spikeinterface` was a meta-package that depended on 5 independent packages.
 
 .. image:: images/overview.png
 
